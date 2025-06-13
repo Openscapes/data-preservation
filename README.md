@@ -1,1 +1,2 @@
-# Data preservation matchmaking
+# Data preservation matchmaking worksheet
+Accessible and reusable data supports science, management, innovation, and the economy. Maintaining access to essential datasets requires active stewardship from people who know the data well and people who manage data systems. This list of questions emerged from conversations with people working on data preservation who wanted to add some structure to their discussions, particularly when working across sectors and with multiple institutions. Not all questions will be relevant to all data preservation situations. We encourage you to submit topics we may have missed. We are grateful to our early anonymous reviewers as well as feedback from Amy Nurnberger. 
